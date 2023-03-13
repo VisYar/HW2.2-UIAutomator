@@ -88,7 +88,7 @@ class ChangeTextTest {
         waitForPackage(packageName)
 
         val result = device.findObject(By.res(packageName, "text")).text
-        assertEquals(result, textToSet)
+        assertEquals(result, textToNewActivity)
     }
 }
 
