@@ -1,4 +1,3 @@
-# UI Automator
 [![Android CI](https://github.com/VisYar/HW2.2-UIAutomator/actions/workflows/android.yml/badge.svg)](https://github.com/VisYar/HW2.2-UIAutomator/actions/workflows/android.yml)
 
 
