@@ -25,7 +25,7 @@ class ChangeTextTest {
     private lateinit var device: UiDevice
     private val textToSet = "Netology"
     private val textToEmpty = "      "
-    private val textToNewActivity = "Hi Netology"
+    private val textToNewActivity = "Hi, Netology"
 
     private fun waitForPackage(packageName: String) {
         val context = ApplicationProvider.getApplicationContext<Context>()
