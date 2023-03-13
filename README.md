@@ -1,3 +1,7 @@
+# UI Automator
+[![Android CI](https://github.com/VisYar/HW2.2-UIAutomator/actions/workflows/android.yml/badge.svg)](https://github.com/VisYar/HW2.2-UIAutomator/actions/workflows/android.yml)
+
+
 # Домашнее задание к занятию «2.2. UI Automator. Автоматизация тестирования Android»
 
 Возьмите за основу [лекционный проект](sample) и дополните решениями заданий.
